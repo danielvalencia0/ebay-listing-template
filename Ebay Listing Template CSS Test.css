@@ -79,6 +79,7 @@ em {
     width: 100%;
     background-color: #eaeaea;
     min-height: 500px;
+    padding: 20px;
 }
 #logo {
     float: left;
@@ -234,6 +235,7 @@ em {
     height: 65px;
     margin: 0 auto;
     margin-top: 10px;
+    padding-bottom: 20px;
 }
 #product-buy-price-container {
     float: left;
