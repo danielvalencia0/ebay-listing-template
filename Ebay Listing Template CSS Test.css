@@ -79,7 +79,7 @@ em {
     width: 100%;
     background-color: #eaeaea;
     min-height: 500px;
-    padding: 20px;
+    padding-bottom: 20px;
 }
 #logo {
     float: left;
