@@ -129,7 +129,14 @@ em {
     text-transform: uppercase;
     margin-left: 80px;
     cursor: pointer;
+    transition:color 0.25s ease;
+    -webkit-transition:color 0.25s ease;
 }
+
+.nav-upper-item:hover {
+    color: #e10707 !important;
+}
+
 .nav-lower-item {
     font-weight: 100;
     padding: 0px 0px;
@@ -139,7 +146,14 @@ em {
     margin-left: 50px;
     margin-top: 20px;
     cursor: pointer;
+    transition:color 0.25s ease;
+    -webkit-transition:color 0.25s ease;
 }
+
+.nav-lower-item:hover {
+    color: #e10707 !important;
+}
+
 .product-gallery {
     position: relative;
     float: left;
@@ -373,8 +387,8 @@ em {
     background-color: #222;
     margin: 0 auto;
     cursor: pointer;
+    -webkit-transition: background-color 0.25s ease;
     transition: background-color 0.25s ease;
-
 }
 .recommended-item-button-text {
     color: #fff;
