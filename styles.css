@@ -84,14 +84,7 @@ em {
 #logo {
     float: left;
     max-width: 60%;
-    width: 25%;
-    height: 79px;
-    margin-top: 25px;
-    /*
-     border-width: 3px;
-     border-style: solid;
-     border-color: #222222;
-     text-align: center;*/
+    width: 200px;
 }
 #logo-img {
     width: 200%;
@@ -113,7 +106,7 @@ em {
     width: 70%;
     height: 100px;
     float: right;
-    margin-top: 25px;
+    margin-top: 15px;
 }
 #nav-upper {
     width: 100%;
