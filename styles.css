@@ -719,6 +719,7 @@ label img {
     }
     .product-gallery-big-thumbnail-image {
         max-width: none;
+        object-fit: contain;
     }
     .product-gallery-big-thumbnail-image {
         max-height: 375px !important;
